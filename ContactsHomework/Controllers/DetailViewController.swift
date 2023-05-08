@@ -2,7 +2,7 @@
 //  DetailViewController.swift
 //  ContactsHomework
 //
-//  Created by Aida Moldaly on 05.06.2022.
+//  Created by tamzimun on 05.06.2022.
 //
 
 import UIKit

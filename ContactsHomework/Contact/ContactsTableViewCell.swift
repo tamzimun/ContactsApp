@@ -2,7 +2,7 @@
 //  ContactsTableViewCell.swift
 //  ContactsHomework
 //
-//  Created by Aida Moldaly on 03.06.2022.
+//  Created by tamzimun on 03.06.2022.
 //
 
 import UIKit
